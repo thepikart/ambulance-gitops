@@ -6,6 +6,10 @@ spec:
   microFrontend: app-ambulance-ufe
   element: app-ambulance-wl-app
   attributes:
+    - name: api-base
+      value: http://localhost:5000/api
+    - name: ambulance-id
+      value: bobulova
     - name: base-path
       value: /app-ambulance-wl/
   displayRules:
