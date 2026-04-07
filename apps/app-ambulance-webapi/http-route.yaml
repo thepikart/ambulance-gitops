@@ -32,7 +32,7 @@ spec:
         - group: ""
           kind: Service
           name: app-openapi-ui
-          port: 8
+          port: 80
     - matches:
         - path:
             type: Exact
