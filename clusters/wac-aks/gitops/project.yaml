@@ -1,0 +1,12 @@
+apiVersion: wac-fiit.github.io/v1alpha1
+kind: Project
+metadata:
+  name: app-ambulance-wl # napr. <pfx>-ambulance-wl
+spec:
+  title: Zoznam čakajúcich app # napr. "Zoznam čakajúcich <pfx>"
+  description: Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii # napr. "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
+  authors: "Adriana Pikartová" # Zadajte mená autorov
+  azureLink: "https://app-ambulance.azurewebsites.net"
+  frontendRepoUrl: "https://github.com/thepikart/ambulance-ufe"
+  backendRepoUrl: "https://github.com/thepikart/ambulance-webapi"
+  gitopsRepoUrl: "https://github.com/thepikart/ambulance-gitops"
