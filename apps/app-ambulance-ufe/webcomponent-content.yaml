@@ -7,7 +7,7 @@ spec:
   element: app-ambulance-wl-app
   attributes:
     - name: api-base
-      value: http://localhost:30081/api
+      value: /app-api
     - name: ambulance-id
       value: bobulova
     - name: base-path
