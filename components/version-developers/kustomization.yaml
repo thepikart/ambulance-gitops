@@ -6,4 +6,4 @@ images:
   newTag: main.20260404.1611 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
 - name: thepikart/ambulance-ufe
   newName: thepikart/ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
-  newTag: main.20260407.1047 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+  newTag: main.20260414.1731 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
